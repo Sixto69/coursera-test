@@ -1,0 +1,18 @@
+<script type='application/ld+json'>
+{
+ "@context": "http://www.schema.org",
+ "@type": "person",
+ "name": "salvador allende",
+ "gender": "male",
+ "url": "https://cs.dbpedia.org/page/Salvador_Allende",
+ "sameAs": [
+ ""
+ ],
+ "address": {
+ "@type": "PostalAddress",
+ "addressLocality": "Santiago",
+ "addressCountry": "Chile"
+ },
+ "birthDate": "1908-06-26"
+}
+</script>
